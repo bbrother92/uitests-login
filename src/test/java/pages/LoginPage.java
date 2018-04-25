@@ -29,7 +29,6 @@ public class LoginPage {
 		loginEmail.setValue(email);
 		loginPassword.setValue(password);
 		statusButton.waitUntil(Condition.visible, 7000).click();
-		screenshot("here");
 		statusSelector.waitUntil(Condition.visible,7000).click();
 		loginButton.waitUntil(Condition.visible, 7000).click(); // or just we could press enter
 		return page(PanelPage.class);
