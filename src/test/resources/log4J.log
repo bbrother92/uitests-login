@@ -1,0 +1,7 @@
+2018-04-25 19:44:20 INFO  [main] root(BaseTest.java:26) - Starting test suite
+2018-04-25 19:44:20 INFO  [main] root(BaseTest.java:32) - Starting test method: loginEmptyEmailTest
+2018-04-25 19:44:26 INFO  [main] wdm.BrowserManager(BrowserManager.java:675) - Reading https://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2018-04-25 19:44:27 INFO  [main] wdm.BrowserManager(BrowserManager.java:588) - Latest version of [chromedriver] is 2.38
+2018-04-25 19:44:27 INFO  [main] wdm.BrowserManager(BrowserManager.java:736) - Exporting webdriver.chrome.driver as C:\Users\vi\.m2\repository\webdriver\chromedriver\win32\2.38\chromedriver.exe
+2018-04-25 19:45:03 INFO  [main] root(BaseTest.java:37) - Exiting test method: loginEmptyEmailTest
+2018-04-25 19:45:06 INFO  [main] root(BaseTest.java:44) - Exiting test suite
